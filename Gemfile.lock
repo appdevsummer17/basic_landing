@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/firstdraft/web_git.git
-  revision: eb17875ead53e790fab98a11ac21a0874e4b938b
+  revision: aa58bc682114278d3b4aa57d0590391c8312e3ee
   specs:
     web_git (0.0.1)
       bootstrap (~> 4.0.0.alpha6)
