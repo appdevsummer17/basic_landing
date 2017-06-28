@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/firstdraft/web_git.git
-  revision: 109d8edc73b3d13e3eb38bbe84fa88eda14fdc9e
+  revision: eb17875ead53e790fab98a11ac21a0874e4b938b
   specs:
     web_git (0.0.1)
       bootstrap (~> 4.0.0.alpha6)
@@ -287,4 +287,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   1.14.6
+   1.15.1
